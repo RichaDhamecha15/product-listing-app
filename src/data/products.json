@@ -1,0 +1,112 @@
+[
+    {
+        "product_id":"PID_001",
+        "product_name":"Oneplus 6",
+        "product_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla lobortis sollicitudin mi non fringilla. Nam vitae cursus libero. Curabitur non nisl ut ipsum molestie rhoncus. Integer lobortis mauris diam, ut rutrum dolor iaculis id. Etiam quis lorem non lorem aliquet lacinia. Vestibulum pellentesque scelerisque libero sed interdum. Curabitur erat velit, mattis eu mauris et, varius volutpat felis. Praesent eu ipsum suscipit, pulvinar turpis vitae, pulvinar arcu",
+        "image": "https://cdn2.gsmarena.com/vv/pics/oneplus/oneplus-6-amber-red.jpg",
+        "type":"Electric",
+        "category":"Mobile",
+        "quantity":2,
+        "unit_price":"36999",
+        "limit": 3
+    },
+    {
+        "product_id":"PID_002",
+        "product_name":"Dell Inspiron Laptop",
+        "product_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla lobortis sollicitudin mi non fringilla. Nam vitae cursus libero. Curabitur non nisl ut ipsum molestie rhoncus. Integer lobortis mauris diam, ut rutrum dolor iaculis id. Etiam quis lorem non lorem aliquet lacinia. Vestibulum pellentesque scelerisque libero sed interdum. Curabitur erat velit, mattis eu mauris et, varius volutpat felis. Praesent eu ipsum suscipit, pulvinar turpis vitae, pulvinar arcu",
+        "image": "https://cdn.gsmarena.com/imgroot/news/16/12/dell-inspiron15-deal/inline/gsmarena_001.jpg",
+        "type":"Electric",
+        "category":"Laptop",
+        "quantity":0,
+        "unit_price":"59999",
+        "limit": 2
+    },
+    {
+        "product_id":"PID_003",
+        "product_name":"Apple Macbook Pro",
+        "product_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla lobortis sollicitudin mi non fringilla. Nam vitae cursus libero. Curabitur non nisl ut ipsum molestie rhoncus. Integer lobortis mauris diam, ut rutrum dolor iaculis id. Etiam quis lorem non lorem aliquet lacinia. Vestibulum pellentesque scelerisque libero sed interdum. Curabitur erat velit, mattis eu mauris et, varius volutpat felis. Praesent eu ipsum suscipit, pulvinar turpis vitae, pulvinar arcu",
+        "image": "https://cdn.gsmarena.com/imgroot/news/16/12/macbook-pro-deal/-344x215/gsmarena_001.jpg",
+        "type":"Electric",
+        "category":"Mobile",
+        "quantity":2,
+        "unit_price":"68999",        
+        "limit": 2
+    },
+    {
+        "product_id":"PID_004",
+        "product_name":"iPhone X",
+        "product_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla lobortis sollicitudin mi non fringilla. Nam vitae cursus libero. Curabitur non nisl ut ipsum molestie rhoncus. Integer lobortis mauris diam, ut rutrum dolor iaculis id. Etiam quis lorem non lorem aliquet lacinia. Vestibulum pellentesque scelerisque libero sed interdum. Curabitur erat velit, mattis eu mauris et, varius volutpat felis. Praesent eu ipsum suscipit, pulvinar turpis vitae, pulvinar arcu",
+        "image": "https://cdn2.gsmarena.com/vv/bigpic/apple-iphone-x.jpg",
+        "type":"Electric",
+        "category":"Mobile",
+        "quantity":15,
+        "unit_price":"92999",
+        "limit": 4
+    },
+    {
+        "product_id":"PID_005",
+        "product_name":"Samsung Galaxy S9",
+        "product_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla lobortis sollicitudin mi non fringilla. Nam vitae cursus libero. Curabitur non nisl ut ipsum molestie rhoncus. Integer lobortis mauris diam, ut rutrum dolor iaculis id. Etiam quis lorem non lorem aliquet lacinia. Vestibulum pellentesque scelerisque libero sed interdum. Curabitur erat velit, mattis eu mauris et, varius volutpat felis. Praesent eu ipsum suscipit, pulvinar turpis vitae, pulvinar arcu",
+        "image": "https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s9-plus-blue.jpg",
+        "type":"Electric",
+        "category":"Mobile",
+        "quantity":20,
+        "unit_price":"48999",        
+        "limit": 2
+    },
+    {
+        "product_id":"PID_006",
+        "product_name":"Oneplus 8T",
+        "product_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla lobortis sollicitudin mi non fringilla. Nam vitae cursus libero. Curabitur non nisl ut ipsum molestie rhoncus. Integer lobortis mauris diam, ut rutrum dolor iaculis id. Etiam quis lorem non lorem aliquet lacinia. Vestibulum pellentesque scelerisque libero sed interdum. Curabitur erat velit, mattis eu mauris et, varius volutpat felis. Praesent eu ipsum suscipit, pulvinar turpis vitae, pulvinar arcu",
+        "image": "https://cdn2.gsmarena.com/vv/pics/oneplus/oneplus-6-amber-red.jpg",
+        "type":"Electric",
+        "category":"Mobile",
+        "quantity":40,
+        "unit_price":"36999",        
+        "limit": 2
+    },
+    {
+        "product_id":"PID_007",
+        "product_name":"Dell Vostro",
+        "product_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla lobortis sollicitudin mi non fringilla. Nam vitae cursus libero. Curabitur non nisl ut ipsum molestie rhoncus. Integer lobortis mauris diam, ut rutrum dolor iaculis id. Etiam quis lorem non lorem aliquet lacinia. Vestibulum pellentesque scelerisque libero sed interdum. Curabitur erat velit, mattis eu mauris et, varius volutpat felis. Praesent eu ipsum suscipit, pulvinar turpis vitae, pulvinar arcu",
+        "image": "https://cdn.gsmarena.com/imgroot/news/16/12/dell-inspiron15-deal/inline/gsmarena_001.jpg",
+        "type":"Electric",
+        "category":"Laptop",
+        "quantity":1000,
+        "unit_price":"59999",        
+        "limit": 2
+    },
+    {
+        "product_id":"PID_008",
+        "product_name":"Apple Macbook Pro Max",
+        "product_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla lobortis sollicitudin mi non fringilla. Nam vitae cursus libero. Curabitur non nisl ut ipsum molestie rhoncus. Integer lobortis mauris diam, ut rutrum dolor iaculis id. Etiam quis lorem non lorem aliquet lacinia. Vestibulum pellentesque scelerisque libero sed interdum. Curabitur erat velit, mattis eu mauris et, varius volutpat felis. Praesent eu ipsum suscipit, pulvinar turpis vitae, pulvinar arcu",
+        "image": "https://cdn.gsmarena.com/imgroot/news/16/12/macbook-pro-deal/-344x215/gsmarena_001.jpg",
+        "type":"Electric",
+        "category":"Mobile",
+        "quantity":150,
+        "unit_price":"68999",        
+        "limit": 2
+    },
+    {
+        "product_id":"PID_009",
+        "product_name":"iPhone 12",
+        "product_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla lobortis sollicitudin mi non fringilla. Nam vitae cursus libero. Curabitur non nisl ut ipsum molestie rhoncus. Integer lobortis mauris diam, ut rutrum dolor iaculis id. Etiam quis lorem non lorem aliquet lacinia. Vestibulum pellentesque scelerisque libero sed interdum. Curabitur erat velit, mattis eu mauris et, varius volutpat felis. Praesent eu ipsum suscipit, pulvinar turpis vitae, pulvinar arcu",
+        "image": "https://cdn2.gsmarena.com/vv/bigpic/apple-iphone-x.jpg",
+        "type":"Electric",
+        "category":"Mobile",
+        "quantity":250,
+        "unit_price":"92999",        
+        "limit": 2
+    },
+    {
+        "product_id":"PID_010",
+        "product_name":"Samsung Galaxy S9+",
+        "product_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla lobortis sollicitudin mi non fringilla. Nam vitae cursus libero. Curabitur non nisl ut ipsum molestie rhoncus. Integer lobortis mauris diam, ut rutrum dolor iaculis id. Etiam quis lorem non lorem aliquet lacinia. Vestibulum pellentesque scelerisque libero sed interdum. Curabitur erat velit, mattis eu mauris et, varius volutpat felis. Praesent eu ipsum suscipit, pulvinar turpis vitae, pulvinar arcu",
+        "image": "https://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s9-plus-blue.jpg",
+        "type":"Electric",
+        "category":"Mobile",
+        "quantity":5,
+        "unit_price":"48999",        
+        "limit": 2
+    }
+]
