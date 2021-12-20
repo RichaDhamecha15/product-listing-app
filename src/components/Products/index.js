@@ -20,9 +20,11 @@ const Products = () => {
         let matchingProduct = productList.find((pr) => pr.product_id === product.product_id);
         if(matchingProduct.quantity < matchingProduct.limit) matchingProduct.quantity -= 1;
         else matchingProduct.limit -= 1;
+        // create object to add to localstorage
         let cartProducts = {
             [product.product_id] : {
                 count: 1, 
+                // countKey to maintain if product's quantity was decremented or limit
                 countKey: matchingProduct.quantity < matchingProduct.limit ? 'quantity' : 'limit'
             }
         };
